@@ -1,0 +1,27 @@
+_repo: The-Real-Robert-Burns_35299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, James L. (James Laughlin)
+    alias: Hughes, James Laughlin
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '38746'
+    url: http://www.gutenberg.org/2009/agents/38746
+description: ''
+gutenberg_issued: '2011-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burns, Robert, 1759-1796'
+- !lcc 'PR'
+title: The Real Robert Burns
+url: http://www.gutenberg.org/ebooks/35299
